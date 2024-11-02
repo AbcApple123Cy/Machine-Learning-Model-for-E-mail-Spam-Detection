@@ -1,0 +1,1 @@
+Using jupyter notebook,google colab and various Machine Learning theoris('Neural Network','Logistic Regression', 'SVM', 'Naive Bayes', 'Random Forest') for detecting spamming emai, comparing the effectiveness with plotting graphs.
